@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bDPjxj76F6a1IyZTokCgPZ3IjZnpSdeLpK6njgjLX14juKGFPG6JXz+U+IIWMVacpweTPVXHS+6qMM0WoOA3YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hreno\\Downloads\\MVVM_4\\MVVM_4\\MVVM_4\\MVVM_4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hreno\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\hreno\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
